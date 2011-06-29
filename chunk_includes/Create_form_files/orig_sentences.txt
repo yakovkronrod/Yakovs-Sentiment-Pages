@@ -1,0 +1,1440 @@
+﻿block	HE01
+sent	THE HUGE RADIATORS DISSIPATED THE HEAT
+بدّدت المُشِعّات الضخمة الحرارة
+        q1	In this event, how likely is it that the huge radiators chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون المشعات الضخمة قد اختارت التورط؟
+        q2	In this event, how likely is it that the huge radiators was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون المشعات الضخمة مدركة لتورطها؟
+        q3	In this event, how likely is it that the huge radiators caused a change in the heat?
+س3: في هذا الحدث، ما إمكانية أن تكون المشعات الضخمة قد أحدثت تغييرًا في الحرارة؟
+        q4	In this event, how likely is it that the huge radiators made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون المشعات الضخمة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the huge radiators moved?
+س5: في هذا الحدث، ما إمكانية أن تكون المشعات الضخمة قد تحركت؟
+        q6	In this event, how likely is it that the huge radiators existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون المشعات الضخمة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the heat was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون الحرارة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the heat was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون الحرارة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the heat was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون الحرارة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the heat?
+س10: في هذا الحدث، إلى أي حد تعتبر الحرارة متميزة أو محددة؟
+       q11	In this event, how distinct is the heat from the huge radiators?
+س11: في هذا الحدث، إلى أي حد تعتبر الحرارة متميزة عن المشعات الضخمة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HE02
+sent	THE SCANDAL FRAYED PARTY UNITY
+أثّرت الفضيحة في وحدة الحزب
+        q1	In this event, how likely is it that the scandal chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون الفضيحة قد اختارت التورط؟
+        q2	In this event, how likely is it that the scandal was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون الفضيحة مدركة لتورطها؟
+        q3	In this event, how likely is it that the scandal caused a change in party unity?
+س3: في هذا الحدث، ما إمكانية أن تكون الفضيحة قد أحدثت تغييرًا في وحدة الحزب؟
+        q4	In this event, how likely is it that the scandal made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون الفضيحة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the scandal moved?
+س5: في هذا الحدث، ما إمكانية أن تكون الفضيحة قد تحركت؟
+        q6	In this event, how likely is it that the scandal existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون الفضيحة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that party unity was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون وحدة الحزب قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that party unity was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون وحدة الحزب قد وُجدت نتيجة لما حدث؟ 
+        q9	In this event, how likely is it that party unity was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون وحدة الحزب ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is party unity?
+س10: في هذا الحدث، إلى أي حد تعتبر وحدة الحزب متميزة أو محددة؟
+       q11	In this event, how distinct is party unity from the scandal? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر وحدة الحزب متميزة عن الفضيحة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HE03
+sent	THE SUNSET REDDENED THE EVENING SKY
+كسا الغروب سماء المساء حُمرةً
+        q1	In this event, how likely is it that the sunset chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الغروب قد اختار التورط؟
+        q2	In this event, how likely is it that the sunset was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الغروب مدركًا لتورطه؟
+        q3	In this event, how likely is it that the sunset caused a change in the evening sky?
+س3: في هذا الحدث، ما إمكانية أن يكون الغروب قد أحدث تغييرًا في سماء المساء؟
+        q4	In this event, how likely is it that the sunset made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الغروب قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the sunset moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الغروب قد تحرك؟
+        q6	In this event, how likely is it that the sunset existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الغروب قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the evening sky was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون سماء المساء قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the evening sky was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون سماء المساء قد وُجدت نتيجة لما حدث؟ 
+        q9	In this event, how likely is it that the evening sky was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون سماء المساء ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the evening sky?
+س10: في هذا الحدث، إلى أي حد تعتبر سماء المساء متميزة أو محددة؟
+       q11	In this event, how distinct is the evening sky from the sunset? </block>    
+س11: في هذا الحدث، إلى أي حد تعتبر سماء المساء متميزة عن الغروب؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HE04
+sent	THE COOK THAWED THE HOLIDAY TURKEY
+أذاب الطباخ ديك العيد المتجمد
+        q1	In this event, how likely is it that the cook chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الطباخ قد اختار التورط؟
+        q2	In this event, how likely is it that the cook was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الطباخ مدركًا لتورطه؟
+        q3	In this event, how likely is it that the cook caused a change in the holiday turkey?
+س3: في هذا الحدث، ما إمكانية أن يكون الطباخ قد أحدث تغييرًا في ديك العيد؟
+        q4	In this event, how likely is it that the cook made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الطباخ قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the cook moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الطباخ قد تحرك؟
+        q6	In this event, how likely is it that the cook existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الطباخ قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the holiday turkey was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون ديك العيد قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the holiday turkey was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون ديك العيد قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the holiday turkey was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون ديك العيد ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the holiday turkey?
+س10: في هذا الحدث، إلى أي حد يعتبر ديك العيد متميزًا أو محددًا؟
+       q11	In this event, how distinct is the holiday turkey from the cook? </block>      
+س11: في هذا الحدث، إلى أي حد يعتبر ديك العيد متميزًا عن الطباخ؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HE05
+sent	THE SOLUTION OXIDIZED THE SCRAP METAL
+صَدِئت قطع المعدن من المحلول  
+        q1	In this event, how likely is it that the solution chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المحلول قد اختار التورط؟
+        q2	In this event, how likely is it that the solution was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المحلول مدركًا لتورطه؟
+        q3	In this event, how likely is it that the solution caused a change in the scrap metal?
+س3: في هذا الحدث، ما إمكانية أن يكون المحلول قد أحدث تغييرًا في قطع المعدن؟
+        q4	In this event, how likely is it that the solution made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المحلول قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the solution moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المحلول قد تحرك؟
+        q6	In this event, how likely is it that the solution existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المحلول قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the scrap metal was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون قطع المعدن قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the scrap metal was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون قطع المعدن قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the scrap metal was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون قطع المعدن ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the scrap metal?
+س10: في هذا الحدث، إلى أي حد تعتبر قطع المعدن متميزة أو محددة؟
+       q11	In this event, how distinct is the scrap metal from the solution? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر قطع المعدن متميزة عن المحلول؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HE06
+sent	THE WEATHER STIFFENED HIS JOINTS
+أيبسَ الطقس مفاصله
+        q1	In this event, how likely is it that the weather chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الطقس قد اختار التورط؟
+        q2	In this event, how likely is it that the weather was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الطقس مدركًا لتورطه؟
+        q3	In this event, how likely is it that the weather caused a change in his joints?
+س3: في هذا الحدث، ما إمكانية أن يكون الطقس قد أحدث تغييرًا في مفاصله؟
+        q4	In this event, how likely is it that the weather made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الطقس قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the weather moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الطقس قد تحرك؟
+        q6	In this event, how likely is it that the weather existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الطقس قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that his joints were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون مفاصله قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that his joints were created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون مفاصله قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that his joints were stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون مفاصله ثابتة في مكانها؟
+       q10	In this event, how distinct or specific are his joints?
+س10: في هذا الحدث، إلى أي حد تعتبر مفاصله متميزة أو محددة؟
+       q11	In this event, how distinct are his joints from the weather? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر مفاصله متميزة عن الطقس؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HI01
+sent	THE INTENSE SUN BLISTERED THE PAINT
+قشرت الشمس الحارة الطِّلاء
+        q1	In this event, how likely is it that the intense sun chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون الشمس الحارة قد اختارت التورط؟
+        q2	In this event, how likely is it that the intense sun was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون الشمس الحارة مدركة لتورطها؟
+        q3	In this event, how likely is it that the intense sun caused a change in the paint?
+س3: في هذا الحدث، ما إمكانية أن تكون الشمس الحارة قد أحدثت تغييرًا في الطلاء؟
+        q4	In this event, how likely is it that the intense sun made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون الشمس الحارة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the intense sun moved?
+س5: في هذا الحدث، ما إمكانية أن تكون الشمس الحارة قد تحركت؟
+        q6	In this event, how likely is it that the intense sun existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون الشمس الحارة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the paint was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الطلاء قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the paint was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الطلاء قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the paint was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الطلاء ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the paint?
+س10: في هذا الحدث، إلى أي حد يعتبر الطلاء متميزًا أو محددًا؟
+       q11	In this event, how distinct is the paint from the intense sun? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر الطلاء متميزًا عن الشمس الحارة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HI02
+sent	ACID RAIN CORRODED THE BUILDING
+صَدِئَ المبنى من المطر الأسيدي 
+        q1	In this event, how likely is it that acid rain chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المطر الأسيدي قد اختار التورط؟
+        q2	In this event, how likely is it that acid rain was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المطر الأسيدي مدركًا لتورطه؟
+        q3	In this event, how likely is it that acid rain caused a change in the building?
+س3: في هذا الحدث، ما إمكانية أن يكون المطر الأسيدي قد أحدث تغييرًا في المبنى؟
+        q4	In this event, how likely is it that acid rain made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المطر الأسيدي قد أحدث شيئًا؟
+        q5	In this event, how likely is it that acid rain moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المطر الأسيدي قد تحرك؟
+        q6	In this event, how likely is it that acid rain existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المطر الأسيدي قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the building was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون المبنى قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the building was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون المبنى قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the building was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون المبنى ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the building?
+س10: في هذا الحدث، إلى أي حد يعتبر المبنى متميزًا أو محددًا؟
+       q11	In this event, how distinct is the building from acid rain? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر المبنى متميزًا عن المطر الأسيدي؟ 
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HI03
+sent	THE STORM ERODED THE BEACH
+أدّت العاصفة إلى تآكُل الشاطئ 
+        q1	In this event, how likely is it that the storm chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون العاصفة قد اختارت التورط؟
+        q2	In this event, how likely is it that the storm was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون العاصفة مدركة لتورطها؟
+        q3	In this event, how likely is it that the storm caused a change in the beach?
+س3: في هذا الحدث، ما إمكانية أن تكون العاصفة قد أحدثت تغييرًا في الشاطئ؟
+        q4	In this event, how likely is it that the storm made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون العاصفة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the storm moved?
+س5: في هذا الحدث، ما إمكانية أن تكون العاصفة قد تحركت؟
+        q6	In this event, how likely is it that the storm existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون العاصفة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the beach was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الشاطئ قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the beach was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الشاطئ قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the beach was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الشاطئ ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the beach?
+س10: في هذا الحدث، إلى أي حد يعتبر الشاطئ متميزًا أو محددًا؟
+       q11	In this event, how distinct is the beach from the storm? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر الشاطئ متميزًا عن العاصفة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HI04
+sent	THE YEAST CULTURES FERMENTED THE BEER
+خمّرت الخميرة البيرة
+        q1	In this event, how likely is it that the yeast cultures chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون الخميرة قد اختارت التورط؟
+        q2	In this event, how likely is it that the yeast cultures were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون الخميرة مدركة لتورطها؟
+        q3	In this event, how likely is it that the yeast cultures caused a change in the beer?
+س3: في هذا الحدث، ما إمكانية أن تكون الخميرة قد أحدثت تغييرًا في البيرة؟
+        q4	In this event, how likely is it that the yeast cultures made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون الخميرة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the yeast cultures moved?
+س5: في هذا الحدث، ما إمكانية أن تكون الخميرة قد تحركت؟
+        q6	In this event, how likely is it that the yeast cultures existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون الخميرة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the beer was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون البيرة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the beer was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون البيرة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the beer was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون البيرة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the beer?
+س10: في هذا الحدث، إلى أي حد تُعتبر البيرة متميزة أو محددة؟
+       q11	In this event, how distinct is the beer from the yeast cultures? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر البيرة متميزة عن الخميرة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HI05
+sent	THE PLANTS SPROUTED TENDER BUDS
+أخرجت النباتات براعم غضة
+        q1	In this event, how likely is it that the plants chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون النباتات قد اختارت التورط؟
+        q2	In this event, how likely is it that the plants were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون النباتات مدركة لتورطها؟
+        q3	In this event, how likely is it that the plants caused a change in tender buds?
+س3: في هذا الحدث، ما إمكانية أن تكون النباتات قد أحدثت تغييرًا في البراعم الغضة؟
+        q4	In this event, how likely is it that the plants made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون النباتات قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the plants moved?
+س5: في هذا الحدث، ما إمكانية أن تكون النباتات قد تحركت؟
+        q6	In this event, how likely is it that the plants existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون النباتات قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that tender buds were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون البراعم الغضة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that tender buds were created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون البراعم الغضة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that tender buds were stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون البراعم الغضة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific are the tender buds?
+س10: في هذا الحدث، إلى أي حد تعتبر البراعم الغضة متميزة أو محددة؟
+       q11	In this event, how distinct are the tender buds from the plants? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر البراعم الغضة متميزة عن النباتات؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	HI06
+sent	THE VIOLENT STORMS SWELLED THE SEA
+أهاجت العواصف الهوجاء البحر
+        q1	In this event, how likely is it that the violent storms chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون العواصف الهوجاء قد اختارت التورط؟
+        q2	In this event, how likely is it that the violent storms were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون العواصف الهوجاء مدركة لتورطها؟
+        q3	In this event, how likely is it that the violent storms caused a change in the sea?
+س3: في هذا الحدث، ما إمكانية أن تكون العواصف الهوجاء قد أحدثت تغييرًا في البحر؟
+        q4	In this event, how likely is it that the violent storms made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون العواصف الهوجاء قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the violent storms moved?
+س5: في هذا الحدث، ما إمكانية أن تكون العواصف الهوجاء قد تحركت؟
+        q6	In this event, how likely is it that the violent storms existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون العواصف الهوجاء قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the sea was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون البحر قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the sea was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون البحر قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the sea was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون البحر ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the sea?
+س10: في هذا الحدث، إلى أي حد يعتبر البحر متميزًا أو محددًا؟
+       q11	In this event, how distinct is the sea from the violent storms? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر البحر متميزًا عن العواصف الهوجاء؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LE01
+sent	THE POLICE ABATED VIOLENT CRIME
+قلّلت الشرطة من جرائم العنف
+        q1	In this event, how likely is it that the police chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون الشرطة قد اختارت التورط؟
+        q2	In this event, how likely is it that the police was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون الشرطة مدركة لتورطها؟
+        q3	In this event, how likely is it that the police caused a change in violent crime?
+س3: في هذا الحدث، ما إمكانية أن تكون الشرطة قد أحدثت تغييرًا في جرائم العنف؟
+        q4	In this event, how likely is it that the police made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون الشرطة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the police moved?
+س5: في هذا الحدث، ما إمكانية أن تكون الشرطة قد تحركت؟
+        q6	In this event, how likely is it that the police existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون الشرطة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that violent crime was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون جرائم العنف قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that violent crime was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون جرائم العنف قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that violent crime was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون جرائم العنف ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is violent crime?
+س10: في هذا الحدث، إلى أي حد تعتبر جرائم العنف متميزة أو محددة؟
+       q11	In this event, how distinct is violent crime from the police? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر جرائم العنف متميزة عن الشرطة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LE02
+sent	THE STROKE ATROPHIED THE RIGHT BRAIN
+أعطبت السكتة الدماغية الدماغ الأيمن 
+        q1	In this event, how likely is it that the stroke chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون السكتة الدماغية قد اختارت التورط؟
+        q2	In this event, how likely is it that the stroke was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون السكتة الدماغية مدركة لتورطها؟
+        q3	In this event, how likely is it that the stroke caused a change in the right brain?
+س3: في هذا الحدث، ما إمكانية أن تكون السكتة الدماغية قد أحدثت تغييرًا في الدماغ الأيمن؟
+        q4	In this event, how likely is it that the stroke made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون السكتة الدماغية قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the stroke moved?
+س5: في هذا الحدث، ما إمكانية أن تكون السكتة الدماغية قد تحركت؟
+        q6	In this event, how likely is it that the stroke existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون السكتة الدماغية قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the right brain was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الدماغ الأيمن قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the right brain was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الدماغ الأيمن قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the right brain was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الدماغ الأيمن ثابتًا في مكانه؟ 
+       q10	In this event, how distinct or specific is the right brain?
+س10: في هذا الحدث، إلى أي حد يعتبر الدماغ الأيمن متميزًا أو محددًا؟
+       q11	In this event, how distinct is the right brain from the stroke? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر الدماغ الأيمن متميزًا عن السكتة الدماغية؟ 
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LE03
+sent	THE FIRE ALARM AWOKE THE RESIDENTS
+أيقظت صفارة الحريق السكان
+        q1	In this event, how likely is it that the fire alarm chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون صفارة الحريق قد اختارت التورط؟
+        q2	In this event, how likely is it that the fire alarm was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون صفارة الحريق مدركة لتورطها؟
+        q3	In this event, how likely is it that the fire alarm caused a change in the residents?
+س3: في هذا الحدث، ما إمكانية أن تكون صفارة الحريق قد أحدثت تغييرًا في السكان؟
+        q4	In this event, how likely is it that the fire alarm made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون صفارة الحريق قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the fire alarm moved?
+س5: في هذا الحدث، ما إمكانية أن تكون صفارة الحريق قد تحركت؟
+        q6	In this event, how likely is it that the fire alarm existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون صفارة الحريق قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the residents were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون السكان قد غُيروا بشكل ما؟
+        q8	In this event, how likely is it that the residents were created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون السكان قد وُجدوا نتيجة لما حدث؟
+        q9	In this event, how likely is it that the residents were stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون السكان ثابتين في أماكنهم؟
+       q10	In this event, how distinct or specific are the residents?
+س10: في هذا الحدث، إلى أي حد يعتبر السكان متميزين أو محددين؟
+       q11	In this event, how distinct are the residents from the fire alarm? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر السكان متميزين عن صفارة الحريق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LE04
+sent	THE FRENCH CHEF CRUMBLED THE CHEESE
+فرط الطباخ الفرنسي الجبن
+        q1	In this event, how likely is it that the french chef chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الطباخ الفرنسي قد اختار التورط؟
+        q2	In this event, how likely is it that the french chef was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الطباخ الفرنسي مدركًا لتورطه؟
+        q3	In this event, how likely is it that the french chef caused a change in the cheese?
+س3: في هذا الحدث، ما إمكانية أن يكون الطباخ الفرنسي قد أحدث تغييرًا في الجبن؟
+        q4	In this event, how likely is it that the french chef made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الطباخ الفرنسي قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the french chef moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الطباخ الفرنسي قد تحرك؟
+        q6	In this event, how likely is it that the french chef existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الطباخ الفرنسي قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the cheese was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الجبن قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the cheese was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الجبن قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the cheese was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الجبن ثابتًا في مكانه؟ 
+       q10	In this event, how distinct or specific is the cheese?
+س10: في هذا الحدث، إلى أي حد يعتبر الجبن متميزًا أو محددًا؟ 
+       q11	In this event, how distinct is the cheese from the french chef? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر الجبن متميزًا عن الطباخ الفرنسي؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LE05
+sent	RELIGIOUS EXTREMISTS EXPLODED THE BOMB
+فجّر المتطرفون الدينيون القنبلة
+        q1	In this event, how likely is it that religious extremists chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المتطرفون دينيًّا قد اختاروا التورط؟
+        q2	In this event, how likely is it that religious extremists were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المتطرفون دينيًّا مدركين لتورطهم؟
+        q3	In this event, how likely is it that religious extremists caused a change in the bomb?
+س3: في هذا الحدث، ما إمكانية أن يكون المتطرفون دينيًّا قد أحدثوا تغييرًا في القنبلة؟
+        q4	In this event, how likely is it that religious extremists made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المتطرفون دينيًّا قد جعلوا شيئًا يحدث؟
+        q5	In this event, how likely is it that religious extremists moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المتطرفون دينيًّا قد تحركوا؟
+        q6	In this event, how likely is it that religious extremists existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون القنبلة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the bomb was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون القنبلة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the bomb was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون القنبلة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the bomb was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون القنبلة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the bomb?
+س10: في هذا الحدث، إلى أي حد تعتبر القنبلة متميزة أو محددة؟
+       q11	In this event, how distinct is the bomb from religious extremists? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر القنبلة متميزة عن المتطرفين دينيًّا؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LE06
+sent	THE FAMOUS VIOLINIST VIBRATED THE STRINGS
+ضرب عازف الكمان المشهور على الأوتار
+        q1	In this event, how likely is it that the famous violinist chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون عازف الكمان المشهور قد اختار التورط؟
+        q2	In this event, how likely is it that the famous violinist was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون عازف الكمان المشهور مدركًا لتورطه؟
+        q3	In this event, how likely is it that the famous violinist caused a change in the strings?
+س3: في هذا الحدث، ما إمكانية أن يكون عازف الكمان المشهور قد أحدث تغييرًا في الأوتار؟
+        q4	In this event, how likely is it that the famous violinist made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون عازف الكمان المشهور قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the famous violinist moved?
+س5: في هذا الحدث، ما إمكانية أن يكون عازف الكمان المشهور قد تحرك؟
+        q6	In this event, how likely is it that the famous violinist existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون عازف الكمان المشهور قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the strings were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون الأوتار قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the strings were created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون الأوتار قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the strings were stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون الأوتار ثابتة في مكانها؟
+       q10	In this event, how distinct or specific are the strings?
+س10: في هذا الحدث، إلى أي حد تعتبر الأوتار متميزة أو محددة؟
+       q11	In this event, how distinct are the strings from the famous violinist? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر الأوتار متميزة عن عازف الكمان المشهور؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LI01
+sent	THE PLANTS BLOOMED YELLOW BLOSSOMS
+أزهرت النباتات براعم صفراء
+        q1	In this event, how likely is it that the plants chose to be 
+involved?
+س1: في هذا الحدث، ما إمكانية أن تكون النباتات قد اختارت التورط؟
+        q2	In this event, how likely is it that the plants were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون النباتات مدركة لتورطها؟
+        q3	In this event, how likely is it that the plants caused a change in yellow blossoms?
+س3: في هذا الحدث، ما إمكانية أن تكون النباتات قد أحدثت تغييرًا في البراعم الصفراء؟
+        q4	In this event, how likely is it that the plants made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون النباتات قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the plants moved?
+س5: في هذا الحدث، ما إمكانية أن تكون النباتات قد تحركت؟
+        q6	In this event, how likely is it that the plants existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون النباتات قد وُجدت قبل وقوع الحدث؟  
+        q7	In this event, how likely is it that yellow blossoms were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون البراعم الصفراء قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that yellow blossoms were created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون البراعم الصفراء قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that yellow blossoms were stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون البراعم الصفراء ثابتة في مكانها؟
+       q10	In this event, how distinct or specific are the yellow blossoms?
+س10: في هذا الحدث، إلى أي حد تعتبر البراعم الصفراء متميزة أو محددة؟
+       q11	In this event, how distinct are the yellow blossoms from the plants? </block>
+س11: في هذا الحدث، إلى أي حد تعتبر البراعم الصفراء متميزة عن النباتات؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LI02
+sent	THE HEAVY TRAFFIC DETERIORATED THE BRIDGE
+تدَهوَرَت حالة الجسر بسبب حركة المرور الكثيفة
+        q1	In this event, how likely is it that the heavy traffic chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون حركة المرور الكثيفة قد اختارت التورط؟
+        q2	In this event, how likely is it that the heavy traffic was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون حركة المرور الكثيفة مدركة لتورطها؟
+        q3	In this event, how likely is it that the heavy traffic caused a change in the bridge?
+س3: في هذا الحدث، ما إمكانية أن تكون حركة المرور الكثيفة قد أحدثت تغييرًا في الجسر؟
+        q4	In this event, how likely is it that the heavy traffic made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون حركة المرور الكثيفة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the heavy traffic moved?
+س5: في هذا الحدث، ما إمكانية أن تكون حركة المرور الكثيفة قد تحركت؟
+        q6	In this event, how likely is it that the heavy traffic existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون حركة المرور الكثيفة قد وُجدت قبل وقوع الحدث؟  
+        q7	In this event, how likely is it that the bridge was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الجسر قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the bridge was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الجسر قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the bridge was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الجسر ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the bridge?
+س10: في هذا الحدث، إلى أي حد يعتبر الجسر متميزًا أو محددًا؟
+       q11	In this event, how distinct is the bridge from the heavy traffic? </block>
+س11: في هذا الحدث، إلى أي حد يعتبر الجسر متميزًا عن حركة المرور الكثيفة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LI03
+sent	THE RARE DISEASE ROTTED THE POTATOES
+أفسد المرض النادر البطاطا
+        q1	In this event, how likely is it that the rare disease chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المرض النادر قد اختار التورط؟
+        q2	In this event, how likely is it that the rare disease was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المرض النادر مدركًا لتورطه؟
+        q3	In this event, how likely is it that the rare disease caused a change in the potatoes?
+س3: في هذا الحدث، ما إمكانية أن يكون المرض النادر قد أحدث تغييرًا في البطاطا؟
+        q4	In this event, how likely is it that the rare disease made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المرض النادر قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the rare disease moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المرض النادر قد تحرك؟
+        q6	In this event, how likely is it that the rare disease existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المرض النادر قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the potatoes were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون البطاطا قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the potatoes were created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون البطاطا قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the potatoes were stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون البطاطا ثابتة في مكانها؟
+       q10	In this event, how distinct or specific are the potatoes?
+س10: في هذا الحدث، إلى أي حد تُعتبر البطاطا متميزة أو محددة؟
+       q11	In this event, how distinct are the potatoes from the rare disease? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر البطاطا متميزة عن المرض النادر؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LI04
+sent	THE CONSTANT RAIN RUSTED THE CAR
+صَدِئت السيارة من المطر المتواصل
+        q1	In this event, how likely is it that the constant rain chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المطر المتواصل قد اختار التورط؟
+        q2	In this event, how likely is it that the constant rain was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المطر المتواصل مدركًا لتورطه؟
+        q3	In this event, how likely is it that the constant rain caused a change in the car?
+س3: في هذا الحدث، ما إمكانية أن يكون المطر المتواصل قد أحدث تغييرًا في السيارة؟
+        q4	In this event, how likely is it that the constant rain made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المطر المتواصل قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the constant rain moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المطر المتواصل قد تحرك؟
+        q6	In this event, how likely is it that the constant rain existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المطر المتواصل قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the car was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون السيارة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the car was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون السيارة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the car was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون السيارة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the car?
+س10: في هذا الحدث، إلى أي حد تُعتبر السيارة متميزة أو محددة؟
+       q11	In this event, how distinct is the car from the constant rain? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر السيارة متميزة عن المطر المتواصل؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LI05
+sent	THE REGULATIONS STAGNATED PRIVATE INVESTMENTS
+أحدثت القوانين والأنظمة ركودًا في الاستثمارات الخاصة
+        q1	In this event, how likely is it that the regulations chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون القوانين والأنظمة قد اختارت التورط؟
+        q2	In this event, how likely is it that the regulations were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون القوانين والأنظمة مدركة لتورطها؟
+        q3	In this event, how likely is it that the regulations caused a change in private investments?
+س3: في هذا الحدث، ما إمكانية أن تكون القوانين والأنظمة قد أحدثت تغييرًا في الاستثمارات الخاصة؟
+        q4	In this event, how likely is it that the regulations made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون القوانين والأنظمة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the regulations moved?
+س5: في هذا الحدث، ما إمكانية أن تكون القوانين والأنظمة قد تحركت؟
+        q6	In this event, how likely is it that the regulations existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون القوانين والأنظمة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that private investments were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون الاستثمارات الخاصة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that private investments were created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون الاستثمارات الخاصة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that private investments were stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون الاستثمارات الخاصة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific are private investments?
+س10: في هذا الحدث، إلى أي حد تُعتبر الاستثمارات الخاصة متميزة أو محددة؟
+       q11	In this event, how distinct are private investments from the regulations? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر الاستثمارات الخاصة متميزة عن القوانين والأنظمة؟  
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	LI06
+sent	THE INTENSE HEAT WILTED THE CROWD
+أهلك الحر الشديد الحشود
+        q1	In this event, how likely is it that the intense heat chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الحر الشديد قد اختار التورط؟
+        q2	In this event, how likely is it that the intense heat was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الحر الشديد مدركًا لتورطه؟
+        q3	In this event, how likely is it that the intense heat caused a change in the crowd?
+س3: في هذا الحدث، ما إمكانية أن يكون الحر الشديد قد أحدث تغييرًا في الحشود؟
+        q4	In this event, how likely is it that the intense heat made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الحر الشديد قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the intense heat moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الحر الشديد قد تحرك؟
+        q6	In this event, how likely is it that the intense heat existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الحر الشديد قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the crowd was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون الحشود قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the crowd was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون الحشود قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the crowd was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون الحشود ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the crowd?
+س10: في هذا الحدث، إلى أي حد تُعتبر الحشود متميزة أو محددة؟
+       q11	In this event, how distinct is the crowd from the intense heat? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر الحشود متميزة عن الحر الشديد؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KT01
+sent	TERRORISTS KILLED EIGHT MARKETGOERS
+قتل إرهابيون ثمانية متسوقين
+        q1	In this event, how likely is it that the terrorists chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد اختاروا التورط؟
+        q2	In this event, how likely is it that the terrorists were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الإرهابيون مدركين لتورطهم؟
+        q3	In this event, how likely is it that the terrorists caused a change in the eight marketgoers?
+س3: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد أحدثو تغييرًا في المتسوقين؟
+        q4	In this event, how likely is it that the terrorists made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد جعلوا شيئًا يحدث؟
+        q5	In this event, how likely is it that the terrorists moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد تحركوا؟ 
+        q6	In this event, how likely is it that the terrorists existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد وُجدوا قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the eight marketgoers were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون المتسوقون الثمانية قد غُيروا بشكل ما؟
+        q8	In this event, how likely is it that the eight marketgoers were created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون المتسوقون الثمانية قد وُجدوا نتيجة لما حدث؟
+        q9	In this event, how likely is it that the eight marketgoers were stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون المتسوقون الثمانية ثابتين في أماكنهم؟
+       q10	In this event, how distinct or specific are the eight marketgoers?
+س10: في هذا الحدث، إلى أي حد يُعتبر المتسوقون الثمانية متميزين أو محددين؟
+       q11	In this event, how distinct are the eight marketgoers from the terrorists? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر المتسوقون الثمانية متميزين عن الإرهابيين؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KT02
+sent	THE REBEL KILLED THE ARMY OFFICER
+قتل المتمرد ضابط الجيش
+        q1	In this event, how likely is it that the rebel chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المتمرد قد اختار التورط؟
+        q2	In this event, how likely is it that the rebel was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المتمرد مدركًا لتورطه؟
+        q3	In this event, how likely is it that the rebel caused a change in the army officer?
+س3: في هذا الحدث، ما إمكانية أن يكون المتمرد قد أحدث تغييرًا في ضابط الجيش؟
+        q4	In this event, how likely is it that the rebel made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المتمرد قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the rebel moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المتمرد قد تحرك؟
+        q6	In this event, how likely is it that the rebel existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المتمرد قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the army officer was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون ضابط الجيش قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the army officer was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون ضابط الجيش قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the army officer was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون ضابط الجيش ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the army officer?
+س10: في هذا الحدث، إلى أي حد يُعتبر ضابط الجيش متميزًا أو محددًا؟
+       q11	In this event, how distinct is the army officer from the rebel? </block>            
+س11: في هذا الحدث، إلى أي حد يُعتبر ضابط الجيش متميزًا عن المتمرد؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KT03
+sent	TERRORISTS SLAUGHTERED NINE HOSTAGES
+ذبح إرهابيون تسعة رهائن
+        q1	In this event, how likely is it that the terrorists chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد اختاروا التورط؟
+        q2	In this event, how likely is it that the terrorists were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الإرهابيون مدركين لتورطهم؟
+        q3	In this event, how likely is it that the terrorists caused a change in the nine hostages?
+س3: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد أحدثو تغييرًا في الرهائن التسعة؟
+        q4	In this event, how likely is it that the terrorists made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد جعلوا شيئًا يحدث؟
+        q5	In this event, how likely is it that the terrorists moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد تحركوا؟
+        q6	In this event, how likely is it that the terrorists existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الإرهابيون قد وُجدوا قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the nine hostages were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الرهائن التسعة قد غُيروا بشكل ما؟
+        q8	In this event, how likely is it that the nine hostages were created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الرهائن التسعة قد وُجدوا نتيجة لما حدث؟
+        q9	In this event, how likely is it that the nine hostages were stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الرهائن التسعة ثابتين في مكانهم؟
+       q10	In this event, how distinct or specific are the nine hostages?
+س10: في هذا الحدث، إلى أي حد يُعتبر الرهائن التسعة متميزين أو محددين؟
+       q11	In this event, how distinct are the nine hostages from the terrorists? </block>     
+س11: في هذا الحدث، إلى أي حد يُعتبر الرهائن التسعة متميزين عن الإرهابيين؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KT04
+sent	THE CITY COUNCIL MEMBER ASSASSINATED A RIVAL CANDIDATE
+اغتال عضو المجلس البلدي مرشحًا منافسًا
+        q1	In this event, how likely is it that the city council member chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون عضو المجلس البلدي قد اختار التورط؟
+        q2	In this event, how likely is it that the city council member was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون عضو المجلس البلدي مدركًا لتورطه؟
+        q3	In this event, how likely is it that the city council member caused a change in the rival candidate?
+س3: في هذا الحدث، ما إمكانية أن يكون عضو المجلس البلدي قد أحدث تغييرًا في المرشح المنافس؟
+        q4	In this event, how likely is it that the city council member made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون عضو المجلس البلدي قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the city council member moved?
+س5: في هذا الحدث، ما إمكانية أن يكون عضو المجلس البلدي قد تحرك؟
+        q6	In this event, how likely is it that the city council member existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون عضو المجلس البلدي قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the rival candidate was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون المرشح المنافس قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the rival candidate was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون المرشح المنافس قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the rival candidate was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون المرشح المنافس ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the rival candidate?
+س10: في هذا الحدث، إلى أي حد يُعتبر المرشح المنافس متميزًا أو محددًا؟
+       q11	In this event, how distinct is the rival candidate from the city council member? </block>    
+س11: في هذا الحدث، إلى أي حد يُعتبر المرشح المنافس متميزًا عن عضو المجلس البلدي؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KT05
+sent	GUNMEN SHOT THE OPPOSITION LEADER
+أطلق مسلحون النار على قائد المعارضة
+        q1	In this event, how likely is it that the gunmen chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المسلحون قد اختاروا التورط؟
+        q2	In this event, how likely is it that the gunmen were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المسلحون مدركين لتورطهم؟
+        q3	In this event, how likely is it that the gunmen caused a change in the opposition leader?
+س3: في هذا الحدث، ما إمكانية أن يكون المسلحون قد أحدثو تغييرًا في قائد المعارضة؟
+        q4	In this event, how likely is it that the gunmen made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المسلحون قد جعلوا شيئًا يحدث؟
+        q5	In this event, how likely is it that the gunmen moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المسلحون قد تحركوا؟
+        q6	In this event, how likely is it that the gunmen existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المسلحون قد وُجدوا قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the opposition leader was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون قائد المعارضة قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the opposition leader was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون قائد المعارضة قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the opposition leader was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون قائد المعارضة ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the opposition leader?
+س10: في هذا الحدث، إلى أي حد يُعتبر قائد المعارضة متميزًا أو محددًا؟
+       q11	In this event, how distinct is the opposition leader from the gunmen? </block>  
+س11: في هذا الحدث، إلى أي حد يُعتبر قائد المعارضة متميزًا عن المسلحين
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KT06
+sent	THE DAUGHTERS POISONED THE BLIND WOMAN
+سمّمت البنات المرأة الكفيفة
+        q1	In this event, how likely is it that the daughters chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون البنات قد اخترن التورط؟
+        q2	In this event, how likely is it that the daughters were aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون البنات مدركات لتورطهن؟
+        q3	In this event, how likely is it that the daughters caused a change in the blind woman?
+س3: في هذا الحدث، ما إمكانية أن يكون البنات قد أحدثن تغييرًا في المرأة الكفيفة؟
+        q4	In this event, how likely is it that the daughters made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون البنات قد جعلن شيئًا يحدث؟ 
+        q5	In this event, how likely is it that the daughters moved?
+س5: في هذا الحدث، ما إمكانية أن يكون البنات قد تحركن؟
+        q6	In this event, how likely is it that the daughters existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون البنات قد وُجدن قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the blind woman was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون المرأة الكفيفة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the blind woman was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون المرأة الكفيفة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the blind woman was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون المرأة الكفيفة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the blind woman?
+س10: في هذا الحدث، إلى أي حد تُعتبر المرأة الكفيفة متميزة أو محددة؟
+       q11	In this event, how distinct is the blind woman from the daughters? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر المرأة الكفيفة متميزة عن البنات؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KE01
+sent	THE MAN IN CUSTODY STRANGLED THE DEPUTY
+شنق الرجلُ المحتجَزُ نائبَ رئيس الشرطة
+        q1	In this event, how likely is it that the man in custody chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الرجل المحتجَز قد اختار التورط؟
+        q2	In this event, how likely is it that the man in custody was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الرجل المحتجَز مدركًا لتورطه؟
+        q3	In this event, how likely is it that the man in custody caused a change in the deputy?
+س3: في هذا الحدث، ما إمكانية أن يكون الرجل المحتجَز قد أحدث تغييرًا في نائب رئيس الشرطة؟
+        q4	In this event, how likely is it that the man in custody made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الرجل المحتجَز قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the man in custody moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الرجل المحتجَز قد تحرك؟
+        q6	In this event, how likely is it that the man in custody existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الرجل المحتجَز قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the deputy was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون نائب رئيس الشرطة قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the deputy was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون نائب رئيس الشرطة قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the deputy was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون نائب رئيس الشرطة ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the deputy?
+س10: في هذا الحدث، إلى أي حد يُعتبر نائب رئيس الشرطة متميزًا أو محددًا؟
+       q11	In this event, how distinct is the deputy from the man in custody? </block>  
+س11: في هذا الحدث، إلى أي حد يُعتبر نائب رئيس الشرطة متميزًا عن الرجل المحتجز؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KE02
+sent	THE WOMAN SMOTHERED HER GRANDMOTHER
+خنقت المرأة جدتها
+        q1	In this event, how likely is it that the woman chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون المرأة قد اختارت التورط؟
+        q2	In this event, how likely is it that the woman was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون المرأة مدركة لتورطها؟
+        q3	In this event, how likely is it that the woman caused a change in the grandmother?
+س3: في هذا الحدث، ما إمكانية أن تكون المرأة قد أحدثت تغييرًا في جدتها؟
+        q4	In this event, how likely is it that the woman made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون المرأة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the woman moved?
+س5: في هذا الحدث، ما إمكانية أن تكون المرأة قد تحركت؟
+        q6	In this event, how likely is it that the woman existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون المرأة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the grandmother was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون الجدة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the grandmother was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون الجدة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the grandmother was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون الجدة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the grandmother?
+س10: في هذا الحدث، إلى أي حد تُعتبر الجدة متميزة أو محددة؟
+       q11	In this event, how distinct is the grandmother from the woman? </block> 
+س11: في هذا الحدث، إلى أي حد تُعتبر الجدة متميزة عن المرأة؟   
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KE03
+sent	THE LOCAL MAN CHOKED THE VAGRANT
+خنق الرجل المحلي الشريد
+        q1	In this event, how likely is it that the local man chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الرجل المحلي قد اختار التورط؟
+        q2	In this event, how likely is it that the local man was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الرجل المحلي مدركًا لتورطه؟
+        q3	In this event, how likely is it that the local man caused a change in the vagrant?
+س3: في هذا الحدث، ما إمكانية أن يكون الرجل المحلي قد أحدث تغييرًا في الشريد؟
+        q4	In this event, how likely is it that the local man made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الرجل المحلي قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the local man moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الرجل المحلي قد تحرك؟
+        q6	In this event, how likely is it that the local man existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الرجل المحلي قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the vagrant was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الشريد قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the vagrant was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الشريد قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the vagrant was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الشريد ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the vagrant?
+س10: في هذا الحدث، إلى أي حد يُعتبر الشريد متميزًا أو محددًا؟
+       q11	In this event, how distinct is the vagrant from the local man? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر الشريد متميزًا عن الرجل المحلي؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KE04
+sent	THE TEENAGER DROWNED THE YOUNG BOY
+أَغرقَ المراهقُ الصبيَّ
+        q1	In this event, how likely is it that the teenager chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون المراهق قد اختار التورط؟
+        q2	In this event, how likely is it that the teenager was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون المراهق مدركًا لتورطه؟
+        q3	In this event, how likely is it that the teenager caused a change in the young boy?
+س3: في هذا الحدث، ما إمكانية أن يكون المراهق قد أحدث تغييرًا في الصبي؟
+        q4	In this event, how likely is it that the teenager made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون المراهق قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the teenager moved?
+س5: في هذا الحدث، ما إمكانية أن يكون المراهق قد تحرك؟
+        q6	In this event, how likely is it that the teenager existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون المراهق قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the young boy was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الصبي قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the young boy was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الصبي قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the young boy was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الصبي ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the young boy?
+س10: في هذا الحدث، إلى أي حد يُعتبر الصبي متميزًا أو محددًا؟
+       q11	In this event, how distinct is the young boy from the teenager? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر الصبي متميزًا عن المراهق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KE05
+sent	THE MAN SUFFOCATED THE 24-YEAR OLD WOMAN
+خنق الرجل المرأة ذات الأربعة والعشرين عامًا
+        q1	In this event, how likely is it that the man chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الرجل قد اختار التورط؟
+        q2	In this event, how likely is it that the man was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الرجل مدركًا لتورطه؟ 
+        q3	In this event, how likely is it that the man caused a change in the 24-year old woman?
+س3: في هذا الحدث، ما إمكانية أن يكون الرجل قد أحدث تغييرًا في المرأة ذات الأربعة والعشرين عامًا؟ 
+        q4	In this event, how likely is it that the man made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الرجل قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the man moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الرجل قد تحرك؟ 
+        q6	In this event, how likely is it that the man existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الرجل قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the 24-year old woman was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون المرأة ذات الأربعة والعشرين عامًا قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the 24-year old woman was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون المرأة ذات الأربعة والعشرين عامًا قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the 24-year old woman was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون المرأة ذات الأربعة والعشرين عامًا ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the 24-year old woman?
+س10: في هذا الحدث، إلى أي حد تُعتبر المرأة ذات الأربعة والعشرين عامًا متميزة أو محددة؟
+       q11	In this event, how distinct is the 24-year old woman from the man? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر المرأة ذات الأربعة والعشرين عامًا متميزة عن الرجل؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	KE06
+sent	THE CARETAKER STARVED THE SEVERELY ILL WOMAN
+جوَّعت الخادمة المرأة الشديدة المرض
+        q1	In this event, how likely is it that the caretaker chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون الخادمة قد اختارت التورط؟
+        q2	In this event, how likely is it that the caretaker was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون الخادمة مدركة لتورطها؟
+        q3	In this event, how likely is it that the caretaker caused a change in the severely ill woman?
+س3: في هذا الحدث، ما إمكانية أن تكون الخادمة قد أحدثت تغييرًا في المرأة الشديدة المرض؟
+        q4	In this event, how likely is it that the caretaker made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون الخادمة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the caretaker moved?
+س5: في هذا الحدث، ما إمكانية أن تكون الخادمة قد تحركت؟
+        q6	In this event, how likely is it that the caretaker existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون الخادمة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the severely ill woman was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون المرأة الشديدة المرض قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the severely ill woman was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون المرأة المرأة الشديدة المرض قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the severely ill woman was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون المرأة الشديدة المرض ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the severely ill woman?
+س10: في هذا الحدث، إلى أي حد تُعتبر المرأة الشديدة المرض متميزة أو محددة؟
+       q11	In this event, how distinct is the severely ill woman from the caretaker? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر المرأة الشديدة المرض متميزة عن الخادمة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NT01
+sent	THE EXPLOSION KILLED EIGHT MARKETGOERS
+أدّى الانفجار إلى مقتل ثمانية متسوقين
+        q1	In this event, how likely is it that the explosion chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الانفجار قد اختار التورط؟
+        q2	In this event, how likely is it that the explosion was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الانفجار مدركًا لتورطه؟
+        q3	In this event, how likely is it that the explosion caused a change in the eight marketgoers?
+س3: في هذا الحدث، ما إمكانية أن يكون الانفجار قد أحدث تغييرًا في المتسوقين الثمانية؟
+        q4	In this event, how likely is it that the explosion made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الانفجار قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the explosion moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الانفجار قد تحرك؟
+        q6	In this event, how likely is it that the explosion existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الانفجار قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the eight marketgoers were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون المتسوقون الثمانية قد غُيروا بشكل ما؟
+        q8	In this event, how likely is it that the eight marketgoers were created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون المتسوقون الثمانية قد وُجدوا نتيجة لما حدث؟
+        q9	In this event, how likely is it that the eight marketgoers were stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون المتسوقون الثمانية ثابتين في أماكنهم؟
+       q10	In this event, how distinct or specific are the eight marketgoers?
+س10: في هذا الحدث، إلى أي حد يُعتبر المتسوقون الثمانية متميزين أو محددين؟
+       q11	In this event, how distinct are the eight marketgoers from the explosion? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر المتسوقون الثمانية متميزين عن الانفجار؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NT02
+sent	THE ATTACK KILLED THE ARMY OFFICER
+أدّى الهجوم إلى مقتل ضابط الجيش 
+        q1	In this event, how likely is it that the attack chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الهجوم قد اختار التورط؟
+        q2	In this event, how likely is it that the attack was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الهجوم مدركًا لتورطه؟
+        q3	In this event, how likely is it that the attack caused a change in the army officer?
+س3: في هذا الحدث، ما إمكانية أن يكون الهجوم قد أحدث تغييرًا في ضابط الجيش؟
+        q4	In this event, how likely is it that the attack made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الهجوم قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the attack moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الهجوم قد تحرك؟
+        q6	In this event, how likely is it that the attack existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الهجوم قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the army officer were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون ضابط الجيش قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the army officer were created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون ضابط الجيش قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the army officer were stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون ضابط الجيش ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the army officer?
+س10: في هذا الحدث، إلى أي حد يُعتبر ضابط الجيش متميزًا أو محددًا؟
+       q11	In this event, how distinct are is army officer from the attack? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر ضابط الجيش متميزًا عن الهجوم؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NT03
+sent	THE SLAUGHTER KILLED NINE HOSTAGES
+أدّت المذبحة إلى مقتل تسعة رهائن 
+        q1	In this event, how likely is it that the slaughter chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن تكون المذبحة قد اختارت التورط؟
+        q2	In this event, how likely is it that the slaughter was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن تكون المذبحة مدركة لتورطها؟
+        q3	In this event, how likely is it that the slaughter caused a change in the nine hostages?
+س3: في هذا الحدث، ما إمكانية أن تكون المذبحة قد أحدثت تغييرًا في الرهائن التسعة؟
+        q4	In this event, how likely is it that the slaughter made something happen?
+س4: في هذا الحدث، ما إمكانية أن تكون المذبحة قد أحدثت شيئًا؟
+        q5	In this event, how likely is it that the slaughter moved?
+س5: في هذا الحدث، ما إمكانية أن تكون المذبحة قد تحركت؟
+        q6	In this event, how likely is it that the slaughter existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن تكون المذبحة قد وُجدت قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the nine hostages were changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الرهائن التسعة قد غُيروا بشكل ما؟
+        q8	In this event, how likely is it that the nine hostages were created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الرهائن التسعة قد وُجدوا نتيجة لما حدث؟
+        q9	In this event, how likely is it that the nine hostages were stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الرهائن التسعة ثابتين في أماكنهم؟
+       q10	In this event, how distinct or specific are the nine hostages?
+س10: في هذا الحدث، إلى أي حد يُعتبر الرهائن التسعة متميزين أو محددين؟
+       q11	In this event, how distinct are the nine hostages from the slaughter? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر الرهائن التسعة متميزين عن المذبحة؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NT04
+sent	THE ASSASSINATION PLOT KILLED A RIVAL CANDIDATE
+أدّى مخطط الاغتيال إلى مقتل مرشح منافس 
+        q1	In this event, how likely is it that the assassination plot chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون مخطط الاغتيال قد اختار التورط؟
+        q2	In this event, how likely is it that the assassination plot was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون مخطط الاغتيال مدركًا لتورطه؟
+        q3	In this event, how likely is it that the assassination plot caused a change in the rival candidate?
+س3: في هذا الحدث، ما إمكانية أن يكون مخطط الاغتيال قد أحدث تغييرًا في المرشح المنافس؟
+        q4	In this event, how likely is it that the assassination plot made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون مخطط الاغتيال قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the assassination plot moved?
+س5: في هذا الحدث، ما إمكانية أن يكون مخطط الاغتيال قد تحرك؟ 
+        q6	In this event, how likely is it that the assassination plot existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون مخطط الاغتيال قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the rival candidate was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون المرشح المنافس قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the rival candidate was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون المرشح المنافس قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the rival candidate was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون المرشح المنافس ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the rival candidate?
+س10: في هذا الحدث، إلى أي حد يُعتبر المرشح المنافس متميزًا أو محددًا؟
+       q11	In this event, how distinct is the rival candidate from the assassination plot? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر المرشح المنافس متميزًا عن مخطط الاغتيال؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NT05
+sent	THE SHOOTING KILLED THE OPPOSITION LEADER
+أدّى إطلاق النار إلى مقتل قائد المعارضة 
+        q1	In this event, how likely is it that the shooting chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون إطلاق النار قد اختار التورط؟
+        q2	In this event, how likely is it that the shooting was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون إطلاق النار مدركًا لتورطه؟
+        q3	In this event, how likely is it that the shooting caused a change in the opposition leader?
+س3: في هذا الحدث، ما إمكانية أن يكون إطلاق النار قد أحدث تغييرًا في قائد المعارضة؟
+        q4	In this event, how likely is it that the shooting made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون إطلاق النار قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the shooting moved?
+س5: في هذا الحدث، ما إمكانية أن يكون إطلاق النار قد تحرك؟
+        q6	In this event, how likely is it that the shooting existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون إطلاق النار قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the opposition leader was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون قائد المعارضة قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the opposition leader was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون قائد المعارضة قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the opposition leader was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون قائد المعارضة ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the opposition leader?
+س10: في هذا الحدث، إلى أي حد يُعتبر قائد المعارضة متميزًا أو محددًا؟
+       q11	In this event, how distinct is the opposition leader from the shooting? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر قائد المعارضة متميزًا عن إطلاق النار؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NT06
+sent	THE POISONING KILLED THE BLIND WOMAN
+أدّى التسمم إلى مقتل المرأة الكفيفة 
+        q1	In this event, how likely is it that the poisoning chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون التسمم قد اختار التورط؟
+        q2	In this event, how likely is it that the poisoning was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون التسمم مدركًا لتورطه؟
+        q3	In this event, how likely is it that the poisoning caused a change in the blind woman?
+س3: في هذا الحدث، ما إمكانية أن يكون التسمم قد أحدث تغييرًا في المرأة الكفيفة؟
+        q4	In this event, how likely is it that the poisoning made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون التسمم قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the poisoning moved?
+س5: في هذا الحدث، ما إمكانية أن يكون التسمم قد تحرك؟
+        q6	In this event, how likely is it that the poisoning existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون التسمم قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the blind woman was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون المرأة الكفيفة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the blind woman was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون المرأة الكفيفة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the blind woman was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون المرأة الكفيفة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the blind woman?
+س10: في هذا الحدث، إلى أي حد تُعتبر المرأة الكفيفة متميزة أو محددة؟
+       q11	In this event, how distinct is the blind woman from the poisoning? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر المرأة الكفيفة متميزة عن التسمم؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NE01
+sent	THE STRANGLING KILLED THE DEPUTY
+أدّى الشنق إلى مقتل نائب رئيس الشرطة 
+        q1	In this event, how likely is it that the strangling chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الشنق قد اختار التورط؟
+        q2	In this event, how likely is it that the strangling was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الشنق مدركًا لتورطه؟
+        q3	In this event, how likely is it that the strangling caused a change in the deputy?
+س3: في هذا الحدث، ما إمكانية أن يكون الشنق قد أحدث تغييرًا في نائب رئيس الشرطة؟
+        q4	In this event, how likely is it that the strangling made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الشنق قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the strangling moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الشنق قد تحرك؟
+        q6	In this event, how likely is it that the strangling existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الشنق قد وُجد قبل وقوع الحدث؟ 
+        q7	In this event, how likely is it that the deputy was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون نائب رئيس الشرطة قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the deputy was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون نائب رئيس الشرطة قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the deputy was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون نائب رئيس الشرطة ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the deputy?
+س10: في هذا الحدث، إلى أي حد يُعتبر نائب رئيس الشرطة متميزًا أو محددًا؟
+       q11	In this event, how distinct is the deputy from the strangling? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر نائب رئيس الشرطة متميزًا عن الشنق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NE02
+sent	THE SMOTHERING KILLED THE GRANDMOTHER
+أدّى الخنق إلى مقتل الجدة 
+        q1	In this event, how likely is it that the smothering chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الخنق قد اختار التورط؟
+        q2	In this event, how likely is it that the smothering was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الخنق مدركًا لتورطه؟
+        q3	In this event, how likely is it that the smothering caused a change in the grandmother?
+س3: في هذا الحدث، ما إمكانية أن يكون الخنق قد أحدث تغييرًا في الجدة؟
+        q4	In this event, how likely is it that the smothering made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الخنق قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the smothering moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الخنق قد تحرك؟
+        q6	In this event, how likely is it that the smothering existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الخنق قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the grandmother was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون الجدة قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the grandmother was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون الجدة قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the grandmother was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون الجدة ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the grandmother?
+س10: في هذا الحدث، إلى أي حد تُعتبر الجدة متميزة أو محددة؟
+       q11	In this event, how distinct is the grandmother from the smothering? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر الجدة متميزة عن الخنق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NE03
+sent	THE CHOKING KILLED THE VAGRANT
+أدّى الخنق إلى مقتل الشريد 
+        q1	In this event, how likely is it that the choking chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الخنق قد اختار التورط؟
+        q2	In this event, how likely is it that the choking was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الخنق مدركًا لتورطه؟
+        q3	In this event, how likely is it that the choking caused a change in the vagrant?
+س3: في هذا الحدث، ما إمكانية أن يكون الخنق قد أحدث تغييرًا في الشريد؟
+        q4	In this event, how likely is it that the choking made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الخنق قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the choking moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الخنق قد تحرك؟
+        q6	In this event, how likely is it that the choking existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الخنق قد وُجد قبل وقوع الحدث؟
+        q7	In this event, how likely is it that the vagrant was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الشريد قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the vagrant was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الشريد قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the vagrant was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الشريد ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the vagrant?
+س10: في هذا الحدث، إلى أي حد يُعتبر الشريد متميزًا أو محددًا؟
+       q11	In this event, how distinct is the vagrant from the choking? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر الشريد متميزًا عن الخنق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NE04
+sent	THE DROWNING KILLED THE YOUNG BOY
+أدّى الغرق إلى مقتل الصبي 
+        q1	In this event, how likely is it that the drowning chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الغرق قد اختار التورط؟
+        q2	In this event, how likely is it that the drowning was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الغرق مدركًا لتورطه؟
+        q3	In this event, how likely is it that the drowning caused a change in the young boy?
+س3: في هذا الحدث، ما إمكانية أن يكون الغرق قد أحدث تغييرًا في الصبي؟
+        q4	In this event, how likely is it that the drowning made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الغرق قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the drowning moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الغرق قد تحرك؟
+        q6	In this event, how likely is it that the drowning existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الغرق قد وُجد قبل وقوع الحدث؟  
+        q7	In this event, how likely is it that the young boy was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن يكون الصبي قد غُير بشكل ما؟
+        q8	In this event, how likely is it that the young boy was created as a result?
+س8: في هذا الحدث، ما إمكانية أن يكون الصبي قد وُجد نتيجة لما حدث؟
+        q9	In this event, how likely is it that the young boy was stationary?
+س9: في هذا الحدث، ما إمكانية أن يكون الصبي ثابتًا في مكانه؟
+       q10	In this event, how distinct or specific is the young boy?
+س10: في هذا الحدث، إلى أي حد يُعتبر الصبي متميزًا أو محددًا؟
+       q11	In this event, how distinct is the young boy from the drowning? </block>
+س11: في هذا الحدث، إلى أي حد يُعتبر الصبي متميزًا عن الغرق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NE05
+sent	SUFFOCATION KILLED THE 24-YEAR OLD WOMAN
+أدّى الخنق إلى مقتل المرأة ذات الأربعة والعشرين عامًا 
+        q1	In this event, how likely is it that the suffocation chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون الخنق قد اختار التورط؟
+        q2	In this event, how likely is it that the suffocation was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون الخنق مدركًا لتورطه؟
+        q3	In this event, how likely is it that the suffocation caused a change in the 24-year old woman?
+س3: في هذا الحدث، ما إمكانية أن يكون الخنق قد أحدث تغييرًا في المرأة ذات الأربعة والعشرين عامًا؟
+        q4	In this event, how likely is it that the suffocation made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون الخنق قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the suffocation moved?
+س5: في هذا الحدث، ما إمكانية أن يكون الخنق قد تحرك؟
+        q6	In this event, how likely is it that the suffocation existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون الخنق قد وُجد قبل وقوع الحدث؟   
+        q7	In this event, how likely is it that the 24-year old woman was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون المرأة ذات الأربعة والعشرين عامًا قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the 24-year old woman was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون المرأة ذات الأربعة والعشرين عامًا قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the 24-year old woman was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون المرأة ذات الأربعة والعشرين عامًا ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the 24-year old woman?
+س10: في هذا الحدث، إلى أي حد تُعتبر المرأة ذات الأربعة والعشرين عامًا متميزة أو محددة؟
+       q11	In this event, how distinct is the 24-year old woman from the suffocation? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر المرأة ذات الأربعة والعشرين عامًا متميزة عن الخنق؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
+
+block	NE06
+sent	STARVATION KILLED THE SEVERELY ILL WOMAN
+أدّى التجويع إلى مقتل المرأة الشديدة المرض 
+        q1	In this event, how likely is it that the starvation chose to be involved?
+س1: في هذا الحدث، ما إمكانية أن يكون التجويع قد اختار التورط؟
+        q2	In this event, how likely is it that the starvation was aware of being involved?
+س2: في هذا الحدث، ما إمكانية أن يكون التجويع مدركًا لتورطه؟
+        q3	In this event, how likely is it that the starvation caused a change in the severely ill woman?
+س3: في هذا الحدث، ما إمكانية أن يكون التجويع قد أحدث تغييرًا في المرأة الشديدة المرض؟
+        q4	In this event, how likely is it that the starvation made something happen?
+س4: في هذا الحدث، ما إمكانية أن يكون التجويع قد أحدث شيئًا؟
+        q5	In this event, how likely is it that the starvation moved?
+س5: في هذا الحدث، ما إمكانية أن يكون التجويع قد تحرك؟
+        q6	In this event, how likely is it that the starvation existed before this event took place?
+س6: في هذا الحدث، ما إمكانية أن يكون التجويع قد وُجد قبل وقوع الحدث؟   
+        q7	In this event, how likely is it that the severely ill woman was changed in some way?
+س7: في هذا الحدث، ما إمكانية أن تكون المرأة الشديدة المرض قد غُيرت بشكل ما؟
+        q8	In this event, how likely is it that the severely ill woman was created as a result?
+س8: في هذا الحدث، ما إمكانية أن تكون المرأة الشديدة المرض قد وُجدت نتيجة لما حدث؟
+        q9	In this event, how likely is it that the severely ill woman was stationary?
+س9: في هذا الحدث، ما إمكانية أن تكون المرأة الشديدة المرض ثابتة في مكانها؟
+       q10	In this event, how distinct or specific is the severely ill woman?
+س10: في هذا الحدث، إلى أي حد تُعتبر المرأة الشديدة المرض متميزة أو محددة؟
+       q11	In this event, how distinct is the severely ill woman from the starvation? </block>
+س11: في هذا الحدث، إلى أي حد تُعتبر المرأة الشديدة المرض متميزة عن التجويع؟
+       q12	How likely is it that this event happened quickly?
+س12: ما إمكانية أن يكون الحدث قد وقع بسرعة؟
+       q13	How likely is it that this event was completed or ended? 
+س13: ما إمكانية أن يكون الحدث قد أُكمل أو أُنهي؟
